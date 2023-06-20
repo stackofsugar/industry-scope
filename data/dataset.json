@@ -1,0 +1,527 @@
+[
+    {
+        "index": 1,
+        "kelurahan": "Jajar",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 30
+    },
+    {
+        "index": 2,
+        "kelurahan": "Purwosari",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 29
+    },
+    {
+        "index": 3,
+        "kelurahan": "Kerten",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 12,
+        "jumlah_karyawan": 451
+    },
+    {
+        "index": 4,
+        "kelurahan": "Kerten",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 907
+    },
+    {
+        "index": 5,
+        "kelurahan": "Kerten",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 149
+    },
+    {
+        "index": 6,
+        "kelurahan": "Laweyan",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 50
+    },
+    {
+        "index": 7,
+        "kelurahan": "Sondakan",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 23,
+        "jumlah_karyawan": 109
+    },
+    {
+        "index": 8,
+        "kelurahan": "Penumping",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 20
+    },
+    {
+        "index": 9,
+        "kelurahan": "Jajar",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 150
+    },
+    {
+        "index": 10,
+        "kelurahan": "Sondakan",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 45
+    },
+    {
+        "index": 11,
+        "kelurahan": "Kerten",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 96
+    },
+    {
+        "index": 12,
+        "kelurahan": "Jajar",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 42
+    },
+    {
+        "index": 13,
+        "kelurahan": "Kerten",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 36
+    },
+    {
+        "index": 14,
+        "kelurahan": "Pajang",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 19
+    },
+    {
+        "index": 15,
+        "kelurahan": "Jajar",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 11
+    },
+    {
+        "index": 16,
+        "kelurahan": "Sriwedari",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 282
+    },
+    {
+        "index": 17,
+        "kelurahan": "Kerten",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 29
+    },
+    {
+        "index": 18,
+        "kelurahan": "Jajar",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 160
+    },
+    {
+        "index": 19,
+        "kelurahan": "Karangasem",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 31,
+        "jumlah_karyawan": 140
+    },
+    {
+        "index": 20,
+        "kelurahan": "Pajang",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 142
+    },
+    {
+        "index": 21,
+        "kelurahan": "Jajar",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 32,
+        "jumlah_karyawan": 19
+    },
+    {
+        "index": 22,
+        "kelurahan": "Kerten",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 200
+    },
+    {
+        "index": 23,
+        "kelurahan": "Jajar",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 40
+    },
+    {
+        "index": 24,
+        "kelurahan": "Karangasem",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 20
+    },
+    {
+        "index": 25,
+        "kelurahan": "Kerten",
+        "kecamatan": "Laweyan",
+        "kode_kbli": 25,
+        "jumlah_karyawan": 23
+    },
+    {
+        "index": 26,
+        "kelurahan": "Jayengan",
+        "kecamatan": "Serengan",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 304
+    },
+    {
+        "index": 27,
+        "kelurahan": "Jayengan",
+        "kecamatan": "Serengan",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 75
+    },
+    {
+        "index": 28,
+        "kelurahan": "Kratonan",
+        "kecamatan": "Serengan",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 15
+    },
+    {
+        "index": 29,
+        "kelurahan": "Tipes",
+        "kecamatan": "Serengan",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 18
+    },
+    {
+        "index": 30,
+        "kelurahan": "Tipes",
+        "kecamatan": "Serengan",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 56
+    },
+    {
+        "index": 31,
+        "kelurahan": "Tipes",
+        "kecamatan": "Serengan",
+        "kode_kbli": 15,
+        "jumlah_karyawan": 22
+    },
+    {
+        "index": 32,
+        "kelurahan": "Serengan",
+        "kecamatan": "Serengan",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 47
+    },
+    {
+        "index": 33,
+        "kelurahan": "Kauman",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 34
+    },
+    {
+        "index": 34,
+        "kelurahan": "Semanggi",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 34
+    },
+    {
+        "index": 35,
+        "kelurahan": "Joyosuran",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 18
+    },
+    {
+        "index": 36,
+        "kelurahan": "Joyosuran",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 31
+    },
+    {
+        "index": 37,
+        "kelurahan": "Semanggi",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 23
+    },
+    {
+        "index": 38,
+        "kelurahan": "Kedung Lumbu",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 31
+    },
+    {
+        "index": 39,
+        "kelurahan": "Semanggi",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 23
+    },
+    {
+        "index": 40,
+        "kelurahan": "Kedung Lumbu",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 20,
+        "jumlah_karyawan": 20
+    },
+    {
+        "index": 41,
+        "kelurahan": "Danukusuman",
+        "kecamatan": "Pasar Kliwon",
+        "kode_kbli": 23,
+        "jumlah_karyawan": 45
+    },
+    {
+        "index": 42,
+        "kelurahan": "Jebres",
+        "kecamatan": "Jebres",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 30
+    },
+    {
+        "index": 43,
+        "kelurahan": "Sudiroprajan",
+        "kecamatan": "Jebres",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 109
+    },
+    {
+        "index": 44,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 59
+    },
+    {
+        "index": 45,
+        "kelurahan": "Purwodiningratan",
+        "kecamatan": "Jebres",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 74
+    },
+    {
+        "index": 46,
+        "kelurahan": "Jagalan",
+        "kecamatan": "Jebres",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 74
+    },
+    {
+        "index": 47,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 133
+    },
+    {
+        "index": 48,
+        "kelurahan": "Jagalan",
+        "kecamatan": "Jebres",
+        "kode_kbli": 20,
+        "jumlah_karyawan": 30
+    },
+    {
+        "index": 49,
+        "kelurahan": "Jagalan",
+        "kecamatan": "Jebres",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 170
+    },
+    {
+        "index": 50,
+        "kelurahan": "Jebres",
+        "kecamatan": "Jebres",
+        "kode_kbli": 13,
+        "jumlah_karyawan": 120
+    },
+    {
+        "index": 51,
+        "kelurahan": "Pucangsawit",
+        "kecamatan": "Jebres",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 2382
+    },
+    {
+        "index": 52,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 79
+    },
+    {
+        "index": 53,
+        "kelurahan": "Jebres",
+        "kecamatan": "Jebres",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 17
+    },
+    {
+        "index": 54,
+        "kelurahan": "Jebres",
+        "kecamatan": "Jebres",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 17
+    },
+    {
+        "index": 55,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 16,
+        "jumlah_karyawan": 25
+    },
+    {
+        "index": 56,
+        "kelurahan": "Jebres",
+        "kecamatan": "Jebres",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 26
+    },
+    {
+        "index": 57,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 190
+    },
+    {
+        "index": 58,
+        "kelurahan": "Kepatihan Wetan",
+        "kecamatan": "Jebres",
+        "kode_kbli": 18,
+        "jumlah_karyawan": 20
+    },
+    {
+        "index": 59,
+        "kelurahan": "Jebres",
+        "kecamatan": "Jebres",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 159
+    },
+    {
+        "index": 60,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 89
+    },
+    {
+        "index": 61,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 247
+    },
+    {
+        "index": 62,
+        "kelurahan": "Pucangsawit",
+        "kecamatan": "Jebres",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 110
+    },
+    {
+        "index": 63,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 31,
+        "jumlah_karyawan": 24
+    },
+    {
+        "index": 64,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 29
+    },
+    {
+        "index": 65,
+        "kelurahan": "Pucangsawit",
+        "kecamatan": "Jebres",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 86
+    },
+    {
+        "index": 66,
+        "kelurahan": "Pucangsawit",
+        "kecamatan": "Jebres",
+        "kode_kbli": 20,
+        "jumlah_karyawan": 100
+    },
+    {
+        "index": 67,
+        "kelurahan": "Sewu",
+        "kecamatan": "Jebres",
+        "kode_kbli": 20,
+        "jumlah_karyawan": 18
+    },
+    {
+        "index": 68,
+        "kelurahan": "Pucangsawit",
+        "kecamatan": "Jebres",
+        "kode_kbli": 28,
+        "jumlah_karyawan": 21
+    },
+    {
+        "index": 69,
+        "kelurahan": "Pucangsawit",
+        "kecamatan": "Jebres",
+        "kode_kbli": 28,
+        "jumlah_karyawan": 30
+    },
+    {
+        "index": 70,
+        "kelurahan": "Kepatihan Wetan",
+        "kecamatan": "Jebres",
+        "kode_kbli": 23,
+        "jumlah_karyawan": 18
+    },
+    {
+        "index": 71,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 37
+    },
+    {
+        "index": 72,
+        "kelurahan": "Jebres",
+        "kecamatan": "Jebres",
+        "kode_kbli": 10,
+        "jumlah_karyawan": 72
+    },
+    {
+        "index": 73,
+        "kelurahan": "Pucangsawit",
+        "kecamatan": "Jebres",
+        "kode_kbli": 14,
+        "jumlah_karyawan": 19
+    },
+    {
+        "index": 74,
+        "kelurahan": "Pucangsawit",
+        "kecamatan": "Jebres",
+        "kode_kbli": 22,
+        "jumlah_karyawan": 16
+    },
+    {
+        "index": 75,
+        "kelurahan": "Mojosongo",
+        "kecamatan": "Jebres",
+        "kode_kbli": 28,
+        "jumlah_karyawan": 86
+    }
+]
