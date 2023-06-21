@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>IndustryScope</title>
+        <title>IndustryScout</title>
 
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 
@@ -15,17 +15,93 @@
             integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
             crossorigin="anonymous"
         />
+        <link rel="stylesheet" href="assets/app.css" />
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Rowdies&display=swap" rel="stylesheet" />
     </head>
-    <body>
-        <div>
-            <h1 class="text-light">Kontol</h1>
-        </div>
+    <body class="body">
+        <header>
+            <div class="text-center text-light my-4 container brand-logo" onclick="javascript:location.reload()">
+                <div class="brand-title">
+                    <div class="display-3"><i class="bi bi-search"></i> IndustryScout</div>
+                    <div class="brand-title fs-4">Never Miss A Good Spot</div>
+                </div>
+            </div>
+        </header>
+        <hr class="mb-3 mt-1" />
+        <main class="container">
+            <div class="text-center text-light fs-4 mb-2">Find the best place in <strong>Solo</strong> to build your business!</div>
+            <div class="mb-4">
+                <div class="text-center mb-2">Step 1. Choose your business segment</div>
+                <div class="row justify-content-center">
+                    <div class="col-12 mb-2 mb-sm-0 col-sm-8 col-md-9 col-lg-8 col-xl-7 col-xxl-6">
+                        <select class="form-select" id="business-segment">
+                            <option selected value="0">Select one here</option>
+                            <option value="10">Food and Beverages</option>
+                            <option value="13">Textile</option>
+                            <option value="14">Clothing</option>
+                            <option value="18">Records Media</option>
+                            <option value="20">Chemical</option>
+                            <option value="22">Rubber and Plastic Goods</option>
+                            <option value="23">Non-metalic Minerals</option>
+                            <option value="28">Machine Industry</option>
+                            <option value="31">Furniture</option>
+                        </select>
+                    </div>
+                    <div class="col col-md-3 col-lg-2" onclick="handleFindLocations()">
+                        <button id="find-button" type="button" class="btn btn-primary w-100">Find Locations</button>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center mb-3">Step 2. Wait for our magic!</div>
+            <div>
+                <div class="d-none" id="result-spinner">
+                    <div class="d-flex justify-content-center">
+                        <div class="spinner-border" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                        <span class="ms-2">Loading results...</span>
+                    </div>
+                </div>
+                <div class="row justify-content-center d-none" id="result-table">
+                    <div class="col-12 col-sm-10 col-lg-8 col-xl-7 col-xxl-6">
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Ranking</th>
+                                        <th scope="col">Area</th>
+                                        <th scope="col">Score</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="result-table-body"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <hr class="mb-2 mt-3" />
+            <div class="d-flex align-items-center flex-column mb-2">
+                <div class="text-center">Developed with ❤️ by Digno and Sarah</div>
+                <div class="text-muted text-center">
+                    &copy; 2023 - Present <a href="https://github.com/stackofsugar" target="_blank" class="text-reset">Stackofsugar</a>, Some Rights
+                    Reserved
+                </div>
+            </div>
+        </footer>
         <script
             src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
             integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
             crossorigin="anonymous"
             referrerpolicy="no-referrer"
         ></script>
+        <script src="scripts/linear-algebra.min.js"></script>
         <script src="scripts/app.js"></script>
         <script
             src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
